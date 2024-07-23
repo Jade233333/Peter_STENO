@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Kathy",
-    "keyboard_name": "asdf",
-    "maintainer": "Kathy",
+    "manufacturer": "JADe",
+    "keyboard_name": "psteno",
+    "maintainer": "JADe",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
     "features": {
